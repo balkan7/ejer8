@@ -1,0 +1,17 @@
+commit 8454780465b718433232c6c7ffebc0514fdbe0d7
+Author: Boris Balkan <borisbalkan7@gmail.com>
+Date:   Mon May 23 15:18:29 2016 -0430
+
+    Se agrego un boton y se cambio los estilos de dicho boton
+
+commit 492b4f431dd8005fcc3e6a1e3b40548b3fa81d29
+Author: Boris Balkan <borisbalkan7@gmail.com>
+Date:   Mon May 23 14:55:11 2016 -0430
+
+    agregamos un nuevo parrafo
+
+commit f6508d89efd4f522170c8c45e9457013d4e1f92b
+Author: Boris Balkan <borisbalkan7@gmail.com>
+Date:   Mon May 23 14:50:45 2016 -0430
+
+    Iniciamos
