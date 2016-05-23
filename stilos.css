@@ -54,3 +54,18 @@ header nav {
 	padding: 7px 20px;
 }
 
+a.boton {
+	
+	padding: 10px 30px;
+	margin-bottom: 200px;
+	display: inline-block;
+	text-decoration: none;
+	background-color: #3498DB;
+	color: white;
+	border-radius: 10px;
+}
+
+	a.boton:hover {
+		background-color: #2980b9;
+		box-shadow: 0 0 30px rgba(0,0,0,.8);
+	}
